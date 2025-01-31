@@ -6,3 +6,14 @@ CAPGEMINI TRAINING:-
 wap to concate two strings without using + or & concat.
 wap to count occurance of words started with given characters
 string vs string builder vs string buffer
+31/1/2025: Day5:
+given 2array,merge them in zigzag order.
+wap to move all the zeroes to the left present in an array.
+wap to print sum of 2d array
+object/classes/methods/constructor
+access modifiers/identifiers/keywords.31/1/2025: Day5:
+given 2array,merge them in zigzag order.
+wap to move all the zeroes to the left present in an array.
+wap to print sum of 2d array
+object/classes/methods/constructor
+access modifiers/identifiers/keywords.
