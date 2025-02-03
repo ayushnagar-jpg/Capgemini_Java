@@ -34,6 +34,7 @@ public static boolean isAnagram(String str1,String str2){
     } else {
         System.out.println("The strings are NOT anagrams.");
    }
+   sc.close();
  }
 }
 
