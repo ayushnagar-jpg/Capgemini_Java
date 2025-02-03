@@ -4,6 +4,7 @@ CAPGEMINI TRAINING:-
 28/1/2025 Day2: local vs global vs Instance,static keyword,Final keyword,pass by value and reference.Some baic practice questions.
 ----------------------------------------------------------------
 29/1/2025 Day3: Operators,Ternory operator,Code hygiene(Naming conventions). logic building problems.
+---------------------------------------------------------------------------------------------------------------
 30/1/2025 Day4: wap to check if a string is rotation of another string.
 wap to concate two strings without using + or & concat.
 wap to count occurance of words started with given characters
@@ -20,7 +21,7 @@ wap to move all the zeroes to the left present in an array.
 wap to print sum of 2d array
 object/classes/methods/constructor
 access modifiers/identifiers/keywords.
-
+-------------------------------------------------------------------------------------------------------
 
 3/2/2025: Day6: 
 this/super/instanceOf
@@ -36,4 +37,4 @@ Design principle
 3)KISS
 4)YAGNI
 Q) WAP to create class with attributes "acc number" "acc holder name" & accbulance & methods to add deposit withdraw cash &check balance.
-
+--------------------------------------------------------------------------------------------------------------------------------------
